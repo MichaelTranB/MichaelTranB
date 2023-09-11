@@ -1,8 +1,7 @@
-<h1 align="center"> Hi there! 👋 I'm Michael Tran
+<h1 align="center">Hi there! 👋 I'm Michael Tran</h1>
 
-## 👨‍💻 Who Am I?
+<h3 align="center">Recent UT Dallas grad passionate about solving real-world problems through code, teaching tech, and living an active lifestyle. 🏋️‍♀️🛫🍽</h3>
 
-I'm a recent grad from UT Dallas, where I studied Information Technology and Systems. My journey in tech is fueled by my passion for solving real-world problems through code and data. When I'm not coding or teaching others how to code, you'll find me at my local powerlifting gym or exploring new recipes in my kitchen! 
 
 ## 💡 What I'm Up To
 
