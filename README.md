@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm Michael Tran</h1>
 
-<h3 align="center">Recent UT Dallas grad passionate about solving real-world problems through code, teaching tech, and living an active lifestyle. 🏋️‍♀️🛫🍽</h3>
-
+<h3 align="center">Full stack dev passionate about problem solving through code, teaching tech, and living an active lifestyle</h3>
 
 ## 💡 What I'm Up To
 
