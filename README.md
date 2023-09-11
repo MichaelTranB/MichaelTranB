@@ -1,12 +1,12 @@
-# Hello, World! 👋 I'm Michael Tran
+<h1 align="center"> Hi there! 👋 I'm Michael Tran
 
 ## 👨‍💻 Who Am I?
 
-I'm a recent grad from UT Dallas, where I dived deep into Information Technology and Systems. My journey in tech is fueled by my passion for solving real-world problems through code and data. When I'm not coding or teaching others how to code, you'll find me pumping iron at the gym or shredding the gnar on my snowboard.
+I'm a recent grad from UT Dallas, where I studied Information Technology and Systems. My journey in tech is fueled by my passion for solving real-world problems through code and data. When I'm not coding or teaching others how to code, you'll find me at my local powerlifting gym or exploring new recipes in my kitchen! 🍽
 
 ## 💡 What I'm Up To
 
-- 🔍 Currently serving as a Coding Instructor at SiliconValley4U and expanding their eLearning platform, Nexclap
+- 🔍 Currently a Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) and expanding their eLearning platform, [Nexclap](https://www.nexclap.com/)
 - 🤖 Exploring the world of Artificial Intelligence and Machine Learning
 - 🛠️ Regularly tinkering with new technologies and frameworks
 
@@ -26,17 +26,16 @@ I'm a recent grad from UT Dallas, where I dived deep into Information Technology
 
 ## 🎯 Quick Facts
 
-- 🎵 I can play classical violin
-- 🍲 I love to cook and experiment in the kitchen
+- 🎵 I play classical violin, piano and guitar
+- 🔄 I can do a backflip
 - 🏂 Snowboarding is my go-to winter sport
-- 🏋️‍♀️ I'm into powerlifting and bodybuilding
-- 🗺️ Fluent in Mandarin and English, and picking up some Spanish
+- 🏋️‍♀️ I'm a competitive powerlifter and a bodybuilding enthusiast
+- 🗺️ Fluent in Mandarin Chinese (and English ofc), and picking up some Spanish
 
 ## 📚 What I'm Reading 
 
-- "Clean Code" by Robert C. Martin
-- "The Pragmatic Programmer" by Andrew Hunt and David Thomas
-
+- "Atomic Habits" by James Clear
+- "Cracking the Coding Interview" by Gayle Laakmann McDowell 😎
 
 <!--
 **MichaelTranB/MichaelTranB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
