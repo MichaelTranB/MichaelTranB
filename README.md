@@ -1,10 +1,10 @@
-<h1 align="center">Hi there! 👋 I'm Michael Tran</h1>
+<h1 align="center">Hey there! 👋 I'm Michael Tran</h1>
 
 <h3 align="center">Full stack dev passionate about problem solving through code, teaching tech, and living an active lifestyle</h3>
 
 ## 💡 What I'm Up To
 
-- 🔍 Currently a Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) and expanding their eLearning platform, [Nexclap](https://www.nexclap.com/)
+- 🔍 Currently a Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) while expanding their eLearning platform, [Nexclap](https://www.nexclap.com/)
 - 🤖 Exploring the world of Artificial Intelligence and Machine Learning
 - 🛠️ Regularly tinkering with new technologies and frameworks
 
@@ -25,10 +25,10 @@
 ## 🎯 Quick Facts
 
 - 🎵 I play classical violin, piano and guitar
-- 🔄 I can do a backflip
+- 🍲 I love to cook and experiment in the kitchen
 - 🏂 Snowboarding is my go-to winter sport
 - 🏋️‍♀️ I'm a competitive powerlifter and a bodybuilding enthusiast
-- 🗺️ Fluent in Mandarin Chinese (and English ofc), and picking up some Spanish
+- 🗺️ Fluent in Mandarin Chinese and English, and picking up some Spanish
 
 ## 📚 What I'm Reading 
 
