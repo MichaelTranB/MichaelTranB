@@ -4,9 +4,9 @@
 
 ## 💡 What I'm Up To
 
-- 🔍 Currently a Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) while expanding their eLearning platform, [Nexclap](https://www.nexclap.com/)
-- 🤖 Exploring the world of Artificial Intelligence and Machine Learning
-- 📚 Sharpening my DSA skills through LeetCode for technical interview prep 
+- 💻 Building and testing new features for [Nexclap](https://www.nexclap.com/)
+- 🔍 Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) 
+- 📚 Probably LeetCoding
 
 ## 🛠️ Tech Stack
 
