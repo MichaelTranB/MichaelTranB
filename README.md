@@ -12,9 +12,9 @@
 
 - **Languages**: Python, JavaScript, Java, C++
 - **Frontend**: HTML, CSS, React
-- **Backend**: Flask
+- **Backend**: Flask, Firebase
 - **Cloud**: Google Cloud Platform
-- **Databases**: SQL, SQLite, PostgreSQL
+- **Databases**: SQL, Postgres, MySQL
 - **Tools**: Docker, PyTest, Git, Sunsama
 
 
