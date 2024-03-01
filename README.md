@@ -5,8 +5,8 @@
 ## 💡 What I'm Up To
 
 - 💻 Building and testing new features for [Nexclap](https://www.nexclap.com/)
-- 🔍 Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) 
-- 📚 Probably LeetCoding
+- 📚 Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) 
+- 🛠️ Training for a powerlifting meet this summer
 
 ## 🛠️ Tech Stack
 
