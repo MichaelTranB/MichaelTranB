@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Michael Tran</h1>
 
-<h3 align="center">Full stack dev passionate about problem solving through code, teaching tech, and living an active lifestyle</h3>
+<h3 align="center">Full stack dev passionate about living an active lifestyle, teaching tech, and problem solving through code</h3>
 
 ## 💡 What I'm Up To
 
