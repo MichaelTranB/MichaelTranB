@@ -6,7 +6,7 @@
 
 - 💻 Building and testing new features for [Nexclap](https://www.nexclap.com/)
 - 📚 Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) 
-- 🛠️ Training for a powerlifting meet this summer
+- 🏗️ Training for a powerlifting meet this summer
 
 ## 🛠️ Tech Stack
 
