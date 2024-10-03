@@ -2,19 +2,12 @@
 
 <h3 align="center">Full stack dev passionate about living an active lifestyle, teaching tech, and problem solving through code</h3>
 
-## 💡 What I'm Up To
+## Currently:
 
 - 💻 Building and testing new features for [Nexclap](https://www.nexclap.com/)
 - 📚 Coding Instructor at [SiliconValley4U](https://www.siliconvalley4u.com/) 
-- 🏗️ Training for a powerlifting meet this summer
+- 🏗️ Training for a powerlifting meet
 
-## 🛠️ Tech Stack
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Frontend**: HTML, CSS, React
-- **Backend**: Flask, Firebase
-- **Cloud**: Google Cloud Platform
-- **Databases**: SQL, Postgres, MySQL
-- **Tools**: Docker, PyTest, Git, Sunsama
 
 
